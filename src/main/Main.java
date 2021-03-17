@@ -11,7 +11,7 @@ import static cuong.util.MathUtil.computeFactorial;
  *
  * @author Cuong
  */
-public class Main {
+//public class Main {
     public static void main(String[] args) {
         
         //5! hy vọng (expected) máy sẽ in ra 120
