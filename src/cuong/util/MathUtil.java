@@ -11,7 +11,7 @@ package cuong.util;
  */
 //Đây là class chứa các hàm tính toán, toán học, dùng chung, làm tiện ích
 //cho các nơi khác sử dụng. Phàm cái gì 
-public class MathUtil {
+//public class MathUtil {
 
     //hàm tính n! = 1.2.3...n
     //vì giá trị giai thừa tăng cực nhanh, nên sẽ tràn vùng int rất sớm
