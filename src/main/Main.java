@@ -12,7 +12,7 @@ import static cuong.util.MathUtil.computeFactorial;
  * @author Cuong
  */
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ParseException {
         
         //5! hy vọng (expected) máy sẽ in ra 120
         System.out.println("5! = " + computeFactorial(5));
