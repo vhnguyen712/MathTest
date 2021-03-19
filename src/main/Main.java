@@ -31,7 +31,7 @@ public class Main {
         System.out.println("1! = " + computeFactorial(1));
         
         //chạy, F6, nhìn kết quả, luận đúng sai bằng mắt trên từng hàm sout()
-        System.out.println("-5! = " + computeFactorial(-5));
+        //System.out.println("-5! = " + computeFactorial(-5));
         //tao kì vọng mày/hàm cF() mình đang chơi, phải ném về ngoại lệ
         //do đưa vào dữ liệu cà chớn
         //-5! tính thế mẹ nào đc, do ! chơi với 0, 1, 2,...
